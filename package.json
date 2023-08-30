@@ -1,0 +1,5 @@
+{
+  "appName": "File Sharing App",
+  "maxFileSize": 10485760, // 10MB in bytes
+  "allowedFileTypes": [".txt", ".jpg", ".png", ".gif", ".mp4"]
+}
